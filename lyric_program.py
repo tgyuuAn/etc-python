@@ -9,6 +9,7 @@ while True:
             with open(file_name,"w",encoding="utf-8") as f:
                 f.write(lyrics)
 
+
         elif select ==2:
             modify_file_name = input("수정할 파일명 입력 : ")
             try:
