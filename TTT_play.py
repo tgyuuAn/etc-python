@@ -57,3 +57,5 @@ while play:
                 raise()
         except:
             print("yes 나 no 둘 중 하나를 입력해주세요.")
+
+            #
